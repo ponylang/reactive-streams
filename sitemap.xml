@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://ponylang.github.io/reactive_streams/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams--index/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-Unicast/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-Subscription/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-NoSubscription/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-SubscriberManager/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-Subscriber/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-Publisher/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-Processor/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-ManagedPublisher/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-ReactiveError/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-SubscribedAlready/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-PublisherFull/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/reactive_streams/reactive_streams-Broadcast/</loc>
-     <lastmod>2021-01-27</lastmod>
+     <lastmod>2021-01-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
